@@ -6,9 +6,9 @@ color:
   saturation: 0.7316677710041404
   rhythmicContrast: 0.006668341113254428
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#C02026'
+    - '#1960AC'
+    - '#6DBD44'
+    - '#FEC31D'
 name: ShoreDan Projects
