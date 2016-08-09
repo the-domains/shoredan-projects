@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-09T05:54:28.214Z'
+datePublished: '2016-08-09T05:56:42.380Z'
+sourcePath: _posts/2016-08-09-building-begins-with-a-dream.md
 author: []
 via: {}
-dateModified: '2016-08-09T05:54:22.142Z'
+dateModified: '2016-08-09T05:56:41.120Z'
 title: Building begins with a dream
 publisher: {}
 description: This is a test to see what it looks like
 starred: false
-sourcePath: _posts/2016-08-09-building-begins-with-a-dream.md
 inFeed: true
 hasPage: true
 inNav: false
