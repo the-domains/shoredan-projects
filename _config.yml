@@ -1,4 +1,3 @@
-layout_spectrum: 0.5736126054544002
 typography_spectrum: 0.34779039351269603
 color:
   brandStrength: 0.6009233030490577
@@ -11,5 +10,7 @@ color:
     - '#1960AC'
     - '#6DBD44'
     - '#FEC31D'
+layout_spectrum: 0.5736126054544002
 name: ShoreDan Projects
 title: ShoreDan Projects
+description: From Conception to Perfection
