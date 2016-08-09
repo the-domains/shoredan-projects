@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ShoreDan Projects]]></title>
+        <description><![CDATA[ShoreDan Projects]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 05:54:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building begins with a dream]]></title>
+            <description><![CDATA[<article><h1>Building begins with a dream</h1><p>This is a test to see what it looks like</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ef16196-5ede-46ba-a986-d28da4671533.jpg"></article>]]></description>
+            <link>undefinedbuilding-begins-with-a-dream/index.html</link>
+            <guid isPermaLink="false">bde420f8-976a-4e46-8288-c36d10dcb16e</guid>
+            <pubDate>Tue, 09 Aug 2016 05:54:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
